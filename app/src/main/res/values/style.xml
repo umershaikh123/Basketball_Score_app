@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="AppTheme" parent="Theme.AppCompat.Light" >
+
+
+    <item name="colorOnSurface">#FF000000</item>
+    <item name="color">#FFFFFFFF</item>
+    <item name="colorOnBackground">#EA802F</item>
+
+
+</style>
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+
+</resources>
